@@ -1,0 +1,20 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Original FBref dataset
+sportsref_download.xls
+
+# Player data derived from FBref
+top_scorers.csv
+goals_per90.csv
