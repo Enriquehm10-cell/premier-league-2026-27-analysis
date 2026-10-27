@@ -1,5 +1,5 @@
 
-# Football Performance Analysis
+# Premier League 2026/27 – Football Data Analysis
 
 A Python data analysis project exploring Premier League 2026/27 match statistics.
 
